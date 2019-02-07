@@ -3,5 +3,6 @@
 # Feel free to google "how to generate a random number in ruby"
 
 def roll
-  ran(6) + 1
+  puts total_random = 1 + rand(6)
+  return total_random
 end
